@@ -1,0 +1,7 @@
+
+
+This is a practice for Git and GitHub.
+
+Java is a programming language.
+
+Being SDET is one of my career plan.
