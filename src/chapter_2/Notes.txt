@@ -3,3 +3,5 @@ This is editor notes
 keep going 
 
 book
+
+I changed sth in order to see in my IntelliJ
